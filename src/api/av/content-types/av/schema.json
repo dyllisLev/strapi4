@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "avs",
+  "info": {
+    "singularName": "av",
+    "pluralName": "avs",
+    "displayName": "av"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "symbol": {
+      "type": "string"
+    }
+  }
+}
